@@ -58,7 +58,7 @@
     margin: 20px;
     font-family: 'Big Shoulders Display'
 }
-.motal{
+.mortal{
     text-transform: lowercase;
     color:hsl(0, 0%, 95%);
     font-family: 'Big Shoulders Display'
@@ -128,7 +128,7 @@
 .btn-3{
     margin: 60px;
     padding: 10px 10px;
-    width: 50%;
+    width: 60%;
     border: 0;
     margin-left: 15px;
     outline: none;
